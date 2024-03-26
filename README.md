@@ -6,7 +6,9 @@ This project is completed as part of the certificate program on Convolutional Ne
 
 # Author
 Mohamed Manessouri
+
 Smart System Engineering Student
+
 ENSIAS, Morocco
 
 # Dataset
